@@ -1,8 +1,8 @@
 ######################################
-Lab 7 Starter Project - XML Processing
+Lab 6 Starter Project - XML Constraints
 ######################################
 
-This is the starter project for Comp4711 Tutorial/Lab 7.
+This is the starter project for Comp4711 Tutorial XML01.
 
 **************
 Intended Usage
@@ -10,7 +10,7 @@ Intended Usage
 
 Fork this project.
 Clone it locally.
-Enhance it per tutorial 6.
+Enhance it per tutorial xml01.
 
 *****
 Setup
