@@ -15,6 +15,7 @@ and open the template in the editor.
         <topping type="shrooms"/>
         <topping type="raw"/>
         <topping type="salsa"/>
+                <topping type="peanutbutter"/>
         <sauce type="ketchup"/>
         <sauce type="mayo"/>
     </burger>
